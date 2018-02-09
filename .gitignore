@@ -2,3 +2,5 @@
 *.pyc
 notebook/recipes.json
 **/*.pkl
+**/*.db
+**/.DS_Store
