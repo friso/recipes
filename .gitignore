@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 *.pyc
 notebook/recipes.json
+.DS_Store
